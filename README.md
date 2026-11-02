@@ -57,10 +57,8 @@ A full-stack application deployed using AWS cloud infrastructure and Kubernetes.
 
 **Technologies Used**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins" />
-</p>
-
+- AWS, Terraform, Docker, Kubernetes, Jenkins, CI/CD, Lambda, SQS, SES, EKS, ECR
+- 
 🔗 **[View PeopleHub Repository](https://github.com/Abin-Ashok/Peoplehub-HR-portal)**
 
 ## 📚 Currently Learning
