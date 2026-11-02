@@ -2,6 +2,12 @@
 
 ### ☁️ Cloud Engineer | AWS Certified Solutions Architect
 
+### ☁️ Cloud Engineer | AWS & Azure | AWS Certified Solutions Architect
+
+I'm a Cloud Engineer working with AWS and Microsoft Azure, with hands-on experience building and deploying cloud-based projects using Docker, Kubernetes, Terraform, and CI/CD pipelines.
+
+I have practical experience in containerization, Kubernetes deployments, infrastructure automation, application deployment, monitoring, and troubleshooting. I'm passionate about cloud architecture, DevOps practices, and building reliable, scalable cloud environments.
+
 I'm a Cloud Engineer passionate about cloud infrastructure, automation, deployment, monitoring, and system reliability. I have hands-on experience working with AWS, Azure, Kubernetes, Terraform, CI/CD pipelines, and cloud monitoring tools.
 
 I enjoy building, managing, and troubleshooting cloud environments while continuously improving my knowledge of cloud architecture, networking, and DevOps practices.
