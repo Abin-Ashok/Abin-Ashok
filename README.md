@@ -2,7 +2,7 @@
 
 ### ☁️ Cloud Engineer | AWS Certified Solutions Architect
 
-I'm a Cloud Engineer passionate about cloud infrastructure, automation, deployment, monitoring, and system reliability. I have hands-on experience working with AWS, Kubernetes, Terraform, CI/CD pipelines, and cloud monitoring tools.
+I'm a Cloud Engineer passionate about cloud infrastructure, automation, deployment, monitoring, and system reliability. I have hands-on experience working with AWS, Azure, Kubernetes, Terraform, CI/CD pipelines, and cloud monitoring tools.
 
 I enjoy building, managing, and troubleshooting cloud environments while continuously improving my knowledge of cloud architecture, networking, and DevOps practices.
 
